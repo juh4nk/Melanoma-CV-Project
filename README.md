@@ -1,4 +1,4 @@
-# Melanoma-Project
+# Melanoma-CV-Project
 
 ## Setup Instructions
 
