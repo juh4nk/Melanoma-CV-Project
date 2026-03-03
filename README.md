@@ -31,12 +31,19 @@ The goal is to demonstrate a complete ML workflow:
 
 ## Repository Structure (Planned)
 Melanoma-CV-Project/
+
 ├── training/ # Python training & evaluation pipeline
+
 ├── android/ # Android application (Java)
+
 ├── docs/ # Architecture and technical documentation
+
 ├── PROJECT_SCOPE.md # Internal scope definition
+
 ├── DECISIONS.md # Technical decision log
+
 ├── CONTRIBUTING.md # Collaboration rules
+
 └── README.md
 
 ## Engineering Principles
